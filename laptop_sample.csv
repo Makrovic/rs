@@ -1,0 +1,21 @@
+laptop_id,brand,series,cpu_vendor,cpu_series,ram,storage,weight,price
+1,HP,Series X,Intel,i7,16GB,512GB,2.5kg,$1500
+2,Dell,Series Y,AMD,Ryzen 5,8GB,256GB,2.0kg,$900
+3,Lenovo,Series Z,Intel,i5,8GB,1TB,2.2kg,$1200
+4,Asus,Series X,AMD,Ryzen 7,16GB,512GB,2.7kg,$1700
+5,Apple,Series Y,Intel,i7,32GB,1TB,3.0kg,$2000
+6,Acer,Series Z,Intel,i5,8GB,256GB,2.1kg,$1000
+7,MSI,Series X,AMD,Ryzen 5,16GB,1TB,2.8kg,$1500
+8,Samsung,Series Y,Intel,i7,16GB,512GB,2.6kg,$1800
+9,Razer,Series X,AMD,Ryzen 9,32GB,1TB,2.9kg,$2500
+10,LG,Series Y,Intel,i5,16GB,512GB,2.4kg,$1400
+11,Sony,Series Z,AMD,Ryzen 7,32GB,1TB,3.2kg,$2200
+12,Toshiba,Series X,Intel,i7,8GB,256GB,2.3kg,$1100
+13,Fujitsu,Series Y,AMD,Ryzen 5,16GB,512GB,2.7kg,$1600
+14,HP,Series X,AMD,Ryzen 7,16GB,1TB,2.8kg,$1700
+15,Dell,Series Y,Intel,i7,16GB,512GB,2.6kg,$1800
+16,Lenovo,Series Z,AMD,Ryzen 5,8GB,256GB,2.1kg,$1000
+17,Asus,Series X,Intel,i5,8GB,1TB,2.2kg,$1200
+18,Apple,Series Y,AMD,Ryzen 9,32GB,1TB,2.9kg,$2500
+19,Acer,Series Z,Intel,i7,16GB,512GB,2.5kg,$1500
+20,MSI,Series X,AMD,Ryzen 5,8GB,256GB,2.0kg,$900
